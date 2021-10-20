@@ -8,7 +8,7 @@
 - 🌱 Mastered JS, React, and Ruby on Rails.
 - 🔊 Problem-solver, strategic thinker, and good lad :)
 
-![Azamat's github stats](https://github-readme-stats.vercel.app/api?username=bettercallazamat&show_icons=true&hide_border=true&theme=radical)
+![Azamat's github stats](https://github-readme-stats.vercel.app/api?username=bettercallazamat&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallazamat&layout=compact&theme=radical" />
 
 ### Languages and Tools:
