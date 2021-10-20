@@ -9,7 +9,7 @@
 - 🔊 Problem-solver, strategic thinker, and good lad :)
 
 ![Azamat's github stats](https://github-readme-stats.vercel.app/api?username=bettercallazamat&show_icons=true&hide_border=true)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallazamat&layout=compact&theme=vue" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallazamat&layout=compact&theme=vue" />
 
 ### Languages and Tools:
 
