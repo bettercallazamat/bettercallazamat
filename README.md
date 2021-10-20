@@ -27,6 +27,7 @@
 <br/>
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="40px" color="white" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/945b0225337909.563440870421b.png"/>](https://bettercallazamat.github.io/portfolio/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/azamat-nuriddinov/)
+[<img align="left" alt="portfolio" width="40px" color="white" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/945b0225337909.563440870421b.png"/>](https://bettercallazamat.github.io/portfolio/)
+[<img align="left" alt="linkedin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/azamat-nuriddinov/)
+[<img align="left" alt="telegram" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png" />](https://t.me/bettercallazamat)
 <br/>
