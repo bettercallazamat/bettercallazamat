@@ -1,12 +1,12 @@
 ## Hello, World! Welcome to my Github Profile, I'll be your guide.
 
-### Software Developer, Engineer and Musician.
+### Software Developer, Project Manager, and Sport-Addict.
 - 💻 Goal: Landing a developer job which I am proud of who I'm working with and what I'm working for!
-- ⚙️ Mechanical Engineer that fell in love with coding.
-- 🔭 I’m currently working on the Microverse Program as a student.
-- 🌱 Mastered JS, React and Ruby on Rails.
-- 🔊 Very communicative and proactive, also C2 proficient in English certified by Cambridge University.
-- ⚡ Fun fact: the only things I like more than talking are playing/listening to music.
+- 👔 Used to work as Project Manager in software development companies, financial institutions, etc.
+- ⚙️ Manager/Analyst that fell in love with coding.
+- 🔭 I recently finished the Full Stack Web Development Program in Microverse.
+- 🌱 Mastered JS, React, and Ruby on Rails.
+- 🔊 Problem-solver, strategic thinker, and good lad :)
 
 ![Azamat's github stats](https://github-readme-stats.vercel.app/api?username=bettercallazamat&show_icons=true&hide_border=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bettercallazamat&layout=compact&theme=vue" />
