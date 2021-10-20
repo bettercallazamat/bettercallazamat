@@ -5,7 +5,7 @@
 - 👔 Used to work as Project Manager in software development companies, financial institutions, etc.
 - ⚙️ Manager/Analyst that fell in love with coding.
 - 🔭 I recently finished the Full Stack Web Development Program in Microverse.
-- 🌱 Mastered JS, React, and Ruby on Rails.
+- 🌱 Mastered Javascript, React, and Ruby on Rails.
 - 🔊 Problem-solver, strategic thinker, and good lad :)
 
 ![Azamat's github stats](https://github-readme-stats.vercel.app/api?username=bettercallazamat&show_icons=true&theme=radical)
