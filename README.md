@@ -1,6 +1,6 @@
 ## Hello, World! Welcome to my Github Profile, I'll be your guide.
 
-### Software Developer, Project Manager, and Sport-Addict.
+### Software Developer, Project Manager, and Sport Addict.
 - 💻 Goal: Landing a developer job which I am proud of who I'm working with and what I'm working for!
 - 👔 Used to work as Project Manager in software development companies, financial institutions, etc.
 - ⚙️ Manager/Analyst that fell in love with coding.
