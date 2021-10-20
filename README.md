@@ -25,5 +25,6 @@
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://bettercallazamat.github.io/portfolio/)
+[<img align="left" alt="codeSTACKr.com" width="40px" color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>](https://bettercallazamat.github.io/portfolio/)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/azamat-nuriddinov/)
 <br/>
